@@ -1,5 +1,4 @@
 # 🖥️ Helpdesk Ticketing System Simulation Lab  
-**Role Focus: IT Support / Helpdesk Technician**
 
 This project simulates real-world helpdesk operations in an enterprise IT environment. It demonstrates the full ticket lifecycle process, including ticket creation, resolution documentation, and escalation procedures. The lab highlights core service desk responsibilities such as issue categorization, prioritization, end-user communication, and cross-team collaboration.
 
@@ -126,4 +125,3 @@ This project demonstrates hands-on understanding of:
 - Enterprise support procedures  
 - Professional documentation practices  
 
-These are core competencies required for **Level 1 Helpdesk and IT Support roles**.
